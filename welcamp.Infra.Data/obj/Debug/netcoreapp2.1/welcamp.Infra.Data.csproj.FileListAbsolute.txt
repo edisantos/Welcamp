@@ -1,0 +1,8 @@
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\bin\Debug\netcoreapp2.1\welcamp.Infra.Data.deps.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\bin\Debug\netcoreapp2.1\welcamp.Infra.Data.dll
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\obj\Debug\netcoreapp2.1\welcamp.Infra.Data.csproj.CoreCompileInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\obj\Debug\netcoreapp2.1\welcamp.Infra.Data.AssemblyInfoInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\obj\Debug\netcoreapp2.1\welcamp.Infra.Data.AssemblyInfo.cs
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\bin\Debug\netcoreapp2.1\welcamp.Infra.Data.runtimeconfig.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\bin\Debug\netcoreapp2.1\welcamp.Infra.Data.runtimeconfig.dev.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Infra.Data\obj\Debug\netcoreapp2.1\welcamp.Infra.Data.csprojAssemblyReference.cache

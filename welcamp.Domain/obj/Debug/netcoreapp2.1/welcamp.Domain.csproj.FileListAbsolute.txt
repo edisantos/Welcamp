@@ -1,0 +1,6 @@
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\bin\Debug\netcoreapp2.1\welcamp.Domain.deps.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\bin\Debug\netcoreapp2.1\welcamp.Domain.dll
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\obj\Debug\netcoreapp2.1\welcamp.Domain.csprojAssemblyReference.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\obj\Debug\netcoreapp2.1\welcamp.Domain.csproj.CoreCompileInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\obj\Debug\netcoreapp2.1\welcamp.Domain.AssemblyInfoInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Domain\obj\Debug\netcoreapp2.1\welcamp.Domain.AssemblyInfo.cs

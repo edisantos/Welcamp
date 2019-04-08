@@ -1,0 +1,14 @@
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\bin\Debug\netcoreapp2.1\welcamp.Application.deps.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\bin\Debug\netcoreapp2.1\welcamp.Application.runtimeconfig.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\bin\Debug\netcoreapp2.1\welcamp.Application.runtimeconfig.dev.json
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\bin\Debug\netcoreapp2.1\welcamp.Application.dll
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\bin\Debug\netcoreapp2.1\welcamp.Application.pdb
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.csprojAssemblyReference.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.csproj.CoreCompileInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.RazorAssemblyInfo.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.RazorAssemblyInfo.cs
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.AssemblyInfoInputs.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.AssemblyInfo.cs
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.RazorTargetAssemblyInfo.cache
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.dll
+F:\Projetos_Clientes\Balilo\welcamp\welcamp\welcamp.Application\obj\Debug\netcoreapp2.1\welcamp.Application.pdb
